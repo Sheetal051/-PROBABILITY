@@ -1,0 +1,22 @@
+Q:Ramesh has a garments shop. He currently has 6 black, 4 red, 2 white and 3 blue shirts of same size in the stock. He picks 2 shirts randomly for the display.What is the probability that either both shirts are white or blue?
+ a.1/105
+ b.1/35
+ c.4/105
+ d.1/15
+ Ans:
+ Let's break down the problem step by step:
+ Step 1: Find the total number of shirts Ramesh has 6 black, 4 red, 2 white, and 3 blue shirts, making a total of: 6 + 4 + 2 + 3 = 15 shirts
+
+Step 2: Find the total number of ways to pick 2 shirts We can pick 2 shirts from 15 shirts in 15C2 ways, which is: 15C2 = 15 × 14 / 2 = 105 ways
+
+Step 3: Find the number of ways to pick 2 white shirts We can pick 2 white shirts from 2 white shirts in 2C2 ways, which is: 2C2 = 2 × 1 / 2 = 1 way
+
+Step 4: Find the number of ways to pick 2 blue shirts We can pick 2 blue shirts from 3 blue shirts in 3C2 ways, which is: 3C2 = 3 × 2 / 2 = 3 ways
+
+Step 5: Find the number of ways to pick either 2 white shirts or 2 blue shirts We add the number of ways to pick 2 white shirts and 2 blue shirts: 1 (white) + 3 (blue) = 4 ways
+
+Step 6: Find the probability The probability of picking either 2 white shirts or 2 blue shirts is: Probability = (Number of favorable outcomes) / (Total number of outcomes) = 4 / 105
+
+So, the correct answer is:
+
+c. 4/105
