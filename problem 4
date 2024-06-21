@@ -1,0 +1,24 @@
+Q:  If 10 letters are to be placed in 10 addressed envelopes, then what is the probability that at least one letter is placed in wrong addressed envelope?
+a.1/10!    
+b.1/9!     
+c.1- (1/10!)           
+d.9/10
+Ans:
+This is a classic problem of derangements. A derangement is a permutation of the letters such that no letter is in its correct envelope.
+
+Let's count the number of ways to place the letters in the envelopes such that at least one letter is in the wrong envelope:
+
+Total number of ways to place the letters in the envelopes: 10! (since there are 10 choices for the first letter, 9 for the second, and so on)
+Number of ways to place the letters in the correct envelopes: 1 (only one way to put each letter in its correct envelope)
+
+Number of ways to place the letters in the envelopes such that at least one letter is in the wrong envelope: 10! - 1 (since we subtract the one correct arrangement from the total number of arrangements)
+Now, we can find the probability that at least one letter is placed in the wrong envelope:
+
+P(At least one letter in wrong envelope) = Number of derangements / Total number of arrangements = (10! - 1) / 10!
+
+Simplifying the fraction, we get:
+P(At least one letter in wrong envelope) = 1 - 1/10!
+
+So, the correct answer is:
+
+c. 1 - (1/10!)
