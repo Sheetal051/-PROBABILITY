@@ -1,0 +1,32 @@
+Q: From a bag containing 6 pink and 8 orange balls, 8 balls are drawn at random. The probability that 5 of them are pink and the rest are orange is
+a.16/143    
+b.19/143    
+c.17/143    
+d.13/143
+Ans:
+Let's solve this problem step by step!
+
+We have a bag with 6 pink balls and 8 orange balls, and we draw 8 balls at random. We want to find the probability that 5 of them are pink and the rest (3) are orange.
+
+The total number of ways to draw 8 balls from 14 (6 pink + 8 orange) is:
+
+C(14, 8) = 14! / (8! × 6!) = 3003
+
+Now, let's count the number of ways to draw 5 pink balls and 3 orange balls:
+
+Number of ways to draw 5 pink balls from 6: C(6, 5) = 6! / (5! × 1!) = 6
+Number of ways to draw 3 orange balls from 8: C(8, 3) = 8! / (3! × 5!) = 56
+So, the total number of ways to draw 5 pink balls and 3 orange balls is:
+
+6 × 56 = 336
+
+Now, we can find the probability:
+P(5 pink and 3 orange) = Number of favorable outcomes / Total number of outcomes = 336 / 3003 = 112 / 1001
+
+Simplifying the fraction, we get:
+
+P(5 pink and 3 orange) = 16 / 143
+
+Therefore, the correct answer is:
+
+a. 16/143
