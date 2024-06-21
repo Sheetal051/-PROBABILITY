@@ -1,0 +1,25 @@
+Q: From a box containing a dozen bulbs, of which exactly one half are good, and four bulbs are chosen at random to fit into the four bulb holders in a room. The probability that the room gets lighted is
+a.2/3      
+b.1/3      
+c.33/44    
+d.32/33
+Ans:
+Let's break this problem down step by step!
+
+We have a box with 12 bulbs, of which 6 are good (half of 12) and 6 are bad. We choose 4 bulbs at random to fit into the 4 bulb holders in a room. The room gets lighted if at least one of the bulbs is good.
+
+Let's find the probability that the room gets lighted:
+
+The total number of ways to choose 4 bulbs from 12 is: C(12, 4) = 12! / (4! × 8!) = 495
+
+The number of ways to choose 4 bulbs with at least one good bulb is the total number of ways to choose 4 bulbs minus the number of ways to choose 4 bad bulbs: C(12, 4) - C(6, 4) = 495 - 15 = 480
+
+So, the probability that the room gets lighted is: P(Room gets lighted) = Number of favorable outcomes / Total number of outcomes = 480 / 495
+Simplifying the fraction, we get:
+
+P(Room gets lighted) = 32 / 33
+
+Therefore, the correct answer is:
+
+d. 32/33
+
