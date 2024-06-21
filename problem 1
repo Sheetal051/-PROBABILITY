@@ -1,0 +1,35 @@
+Q: Two cards are drawn at random from a pack of cards. The probability that both  are queens or diamonds is:
+a.20/221    
+b.15/221    
+c.13/221    
+d.14/221
+Ans:
+The probability of drawing a queen or a diamond on the first draw is:
+
+P(Q or D) = P(Q) + P(D) - P(Q and D)
+
+where P(Q) is the probability of drawing a queen, P(D) is the probability of drawing a diamond, and P(Q and D) is the probability of drawing the queen of diamonds.
+
+P(Q) = 4/52, P(D) = 13/52, and P(Q and D) = 1/52 (since there's only one queen of diamonds).
+
+So, P(Q or D) = 4/52 + 13/52 - 1/52 = 16/52.
+
+Now, the probability that both cards are queens or diamonds is:
+
+P((Q or D) and (Q or D)) = P(Q or D) × P(Q or D)
+
+However, since we've already drawn one card, the probability of drawing a queen or a diamond on the second draw should be calculated as:
+
+P(Q or D | Q or D) = (3/51) + (12/51) = 15/51
+
+So, the probability that both cards are queens or diamonds is:
+
+P((Q or D) and (Q or D)) = (16/52) × (15/51)
+
+Simplifying the expression, we get:
+
+P((Q or D) and (Q or D)) = 240/2652 = 15/221
+
+Therefore, the correct answer is:
+
+b. 15/221
