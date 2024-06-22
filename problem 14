@@ -1,0 +1,15 @@
+Q:Let K and L be events on the same sample space, with P (K) = 0.8 and P (B) = 0.6. Are these two events being disjoint?
+A. True
+B. False
+Ans:
+Let's analyze the given information:
+
+P(K) = 0.8 and P(L) = 0.6
+
+Since P(K) + P(L) = 0.8 + 0.6 = 1.4 > 1, we can conclude that the events K and L are not disjoint.
+
+If K and L were disjoint, the probability of their union would be the sum of their individual probabilities, which would be less than or equal to 1. However, in this case, the sum exceeds 1, indicating that the events are not disjoint.
+
+Therefore, the correct answer is:
+
+B. False
