@@ -1,0 +1,43 @@
+Q:There are 6 oranges, 2 pink, 4 yellow and 3 green towels in a carton. What is the probability of picking up 2 orange towels randomly?
+a.1/7
+b.2/15
+c.2/7
+d.6/15
+Ans:
+Here are the steps to find the probability of picking up 2 orange towels randomly:
+
+Step 1: Identify the total number of towels
+
+There are 6 oranges, 2 pink, 4 yellow, and 3 green towels in the carton. Let's add them up to find the total number of towels:
+
+6 (orange) + 2 (pink) + 4 (yellow) + 3 (green) = 15
+
+So, there are 15 towels in total.
+
+Step 2: Identify the number of orange towels
+
+There are 6 orange towels.
+
+Step 3: Find the probability of picking one orange towel
+
+The probability of picking one orange towel is the number of orange towels divided by the total number of towels:
+
+P(one orange) = Number of orange towels / Total number of towels = 6 / 15 = 2/5
+
+Step 4: Find the probability of picking another orange towel (given that one orange towel has already been picked)
+
+If one orange towel has already been picked, there are now 5 orange towels left out of a total of 14 towels (since one towel has already been removed).
+
+The probability of picking another orange towel is:
+
+P(another orange | one orange already picked) = Number of remaining orange towels / Total number of remaining towels = 5 / 14
+
+Step 5: Find the probability of picking 2 orange towels
+
+The probability of picking 2 orange towels is the product of the probabilities of picking one orange towel and then picking another orange towel:
+
+P(two orange) = P(one orange) × P(another orange | one orange already picked) = (2/5) × (5/14) = 1/7
+
+Therefore, the probability of picking up 2 orange towels randomly is:
+
+a. 1/7
