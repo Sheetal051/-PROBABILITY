@@ -1,0 +1,19 @@
+Q:Find the probability of selecting 2 woman when four persons are choosen at random from a group of 3 men, 2 woman and 4 children.
+A. 1/5
+B.1/6
+C.1/7
+D.1/9
+Ans:
+ Identify the total number of persons There are 3 men, 2 women, and 4 children, making a total of: 3 + 2 + 4 = 9 persons
+
+Identify the number of ways to select 4 persons We can select 4 persons from 9 in: ₉C₄ = 9! / (4! * (9-4)!) = 9! / (4! * 5!) = 126 ways
+
+Identify the number of ways to select 2 women There are 2 women, and we need to select 2 of them. This can be done in: ₂C₂ = 2! / (2! * (2-2)!) = 2! / (2! * 0!) = 1 way
+
+Identify the number of ways to select the remaining 2 persons We need to select 2 persons from the remaining 7 (3 men and 4 children). This can be done in: ₇C₂ = 7! / (2! * (7-2)!) = 7! / (2! * 5!) = 21 ways
+
+Calculate the total number of ways to select 2 women and 2 others The total number of ways is the product of the number of ways to select 2 women and the number of ways to select the remaining 2 persons: 1 * 21 = 21 ways
+
+Calculate the probability Probability = Number of favorable outcomes / Total number of outcomes = 21 / 126 = 1/6
+
+Therefore, the correct answer is B. 1/6.
