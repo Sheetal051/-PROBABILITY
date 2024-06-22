@@ -1,0 +1,18 @@
+Q: One card is drawn at random from a pack of 52 cards. What is the probability that
+the card drawn is a face card (Jack, Queen and King only)?
+A.3/13
+B.1/13
+C.3/52
+D.9/52
+Ans:
+A standard deck of 52 playing cards contains face cards which are the Jack, Queen, and King from each of the four suits (hearts, diamonds, clubs, and spades). Therefore, we have:
+
+Identify the total number of cards There are 52 cards in a standard deck.
+
+Identify the number of face cards There are 4 Jacks, 4 Queens, and 4 Kings, making a total of: 4 (Jacks) + 4 (Queens) + 4 (Kings) = 12 face cards
+
+Calculate the probability Probability = Number of face cards / Total number of cards = 12 / 52
+
+Simplify the fraction (if possible) 12 / 52 can be simplified by dividing both numerator and denominator by 4: = 3 / 13
+
+Therefore, the probability of drawing a face card is 3/13.
