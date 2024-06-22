@@ -1,0 +1,41 @@
+Q:In a bag are 10 red balls and 16 green balls. If two balls are drawn one after the other without replacement, what is the probability that the first is "red" while the second one is "green"?
+a.18/145
+b.35/134
+c.16/65
+d.17/29
+Ans:
+Let's break it down step by step:
+
+Step 1: Identify the total number of balls
+
+There are 10 red balls and 16 green balls, making a total of:
+
+10 (red) + 16 (green) = 26
+
+So, there are 26 balls in the bag.
+
+Step 2: Find the probability of drawing a red ball first
+
+The probability of drawing a red ball first is the number of red balls divided by the total number of balls:
+
+P(red first) = Number of red balls / Total number of balls = 10 / 26
+
+Step 3: Find the probability of drawing a green ball second (given that a red ball has already been drawn)
+
+If a red ball has already been drawn, there are now 9 red balls left and 16 green balls left, making a total of:
+
+9 (red) + 16 (green) = 25
+
+The probability of drawing a green ball second is:
+
+P(green second | red first) = Number of green balls / Total number of remaining balls = 16 / 25
+
+Step 4: Find the probability of drawing a red ball first and a green ball second
+
+The probability of drawing a red ball first and a green ball second is the product of the probabilities:
+
+P(red first and green second) = P(red first) * P(green second | red first) = (10/26) * (16/25) = 16/65
+
+Therefore, the correct answer is:
+
+c. 16/65
