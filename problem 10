@@ -1,0 +1,32 @@
+Q:X attempts 94 questions and gets 141 marks. If for every correct answer 4 marks is given, and for every wrong answer 1 mark is deducted, then the number of questions wrongly answered by X is __.
+A.45
+B.47
+C.57
+D.40
+Ans:
+To determine the number of questions X answered incorrectly, let's set up the problem with the following variables:
+
+Let c represent the number of correct answers.
+Let w represent the number of wrong answers.
+We know the following:
+
+c+w=94 (total number of questions attempted)
+4c−w=141 (total marks, where 4 marks are given for each correct answer and 1 mark is deducted for each wrong answer)
+
+We have the system of equations:
+c+w=94
+4c−w=141
+​
+To solve this system, we can add the two equations together:
+
+(c+w)+(4c−w)=94+141
+5c=235
+c=47
+
+Now, substitute c=47 back into the first equation to find w:
+
+47+w=94
+w=94−47
+w=47
+
+Thus, the number of questions wrongly answered by X is: 47
