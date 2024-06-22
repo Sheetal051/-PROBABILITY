@@ -1,0 +1,35 @@
+Q:In a single throw with 2 dices, what is probability of neither getting an even number on one and nor a multiple of 3 on other?
+A.11/36
+B.25/36
+C.5/6
+D.1/6
+Ans:
+To determine the probability of neither getting an even number on one die nor a multiple of 3 on the other in a single throw with two dice, we need to calculate the complement of the event that at least one die shows an even number or a multiple of 3.
+Step-by-Step Solution
+Identify the possible outcomes for each die:
+
+Each die has the numbers: 
+1,2,3,4,5,6.
+
+Determine the outcomes to avoid:
+Even numbers: 
+2,4,6.
+Multiples of 3: 
+3,6.
+
+Calculate the total number of favorable outcomes:
+The numbers that are neither even nor multiples of 3:1 and 5.
+
+Determine the probability of favorable outcomes on each die:
+For one die, the favorable outcomes are 1 and 5.
+
+Thus, there are 2 favorable outcomes out of 6.
+
+Calculate the combined probability for both dice:
+Probability of a die showing 1 or 5 is 2/6 = 1/3
+
+Since the events for the two dice are independent:
+
+P(neither even nor multiple of 3 on both dice)= (1/3) * (1/3)= 1/9
+
+Therefore, the correct probability is: 1/9
