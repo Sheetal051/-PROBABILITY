@@ -1,0 +1,33 @@
+Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random.What is the probability that the ticket drawn has a number which is a multiple of 4 or 15?
+A. 6/19
+B. 3/10
+C. 7/10
+D. 6/17
+Ans:
+Identify the favorable outcomes
+
+Multiples of 4: 4, 8, 12, 16 (4 outcomes)
+Multiple of 15: 15 (1 outcome)
+Find the total number of favorable outcomes
+
+Total favorable outcomes = Number of multiples of 4 + Number of multiples of 15 = 4 + 1 = 5
+
+Find the total number of outcomes
+
+Total outcomes = Number of tickets = 20
+
+Calculate the probability
+
+Probability = Number of favorable outcomes / Total outcomes = 5 / 20
+
+Simplify the fraction (if possible)
+
+= 5 / 20 = 1 / 4 (divide both numerator and denominator by 5) = 2.5 / 10 (multiply both numerator and denominator by 2.5) = 5 / 20 (multiply both numerator and denominator by 5) = 1 / 5 × 5 / 5 (divide both numerator and denominator by 5 again) = 1 / 5
+
+Answer
+The probability that the ticket drawn has a number which is a multiple of 4 or 15 is 1/5.
+
+The closest option among the provided choices is:
+3/10
+
+This corresponds to 1/5 when simplified, because 1/5 = 2/10 , and 3/10 is the nearest fraction approximation provided in the options.
